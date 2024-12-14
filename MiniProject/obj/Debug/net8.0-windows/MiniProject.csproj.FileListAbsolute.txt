@@ -14,3 +14,4 @@ C:\Users\DELL\source\repos\MiniProject\MiniProject\obj\Debug\net8.0-windows\refi
 C:\Users\DELL\source\repos\MiniProject\MiniProject\obj\Debug\net8.0-windows\MiniProject.pdb
 C:\Users\DELL\source\repos\MiniProject\MiniProject\obj\Debug\net8.0-windows\MiniProject.genruntimeconfig.cache
 C:\Users\DELL\source\repos\MiniProject\MiniProject\obj\Debug\net8.0-windows\ref\MiniProject.dll
+C:\Users\DELL\source\repos\MiniProject\MiniProject\obj\Debug\net8.0-windows\MiniProject.sourcelink.json
